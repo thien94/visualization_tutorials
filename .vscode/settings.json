@@ -1,0 +1,10 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/thien@acfr.usyd.edu.au/base_catkin_ws/devel/lib/python3/dist-packages",
+        "/home/thien@acfr.usyd.edu.au/other/install/lib/python3.10/site-packages/"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/thien@acfr.usyd.edu.au/base_catkin_ws/devel/lib/python3/dist-packages",
+        "/home/thien@acfr.usyd.edu.au/other/install/lib/python3.10/site-packages/"
+    ]
+}
